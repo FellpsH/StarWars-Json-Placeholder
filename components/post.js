@@ -19,6 +19,7 @@ function contrutora(usuario) {
     linha.appendChild(tdId);
     linha.appendChild(tdNome);
     linha.appendChild(tdBody);
+
     return linha;
 }
 
@@ -36,4 +37,3 @@ function main(){
 }
 
 main();
-
